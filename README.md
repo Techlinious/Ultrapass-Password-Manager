@@ -31,3 +31,5 @@ NOTE 5; Updates are planned to be released WEEKLY. some of these may be neccesar
 *Add button to clear passwords
 
 *Fix more bugs
+
+*Add an 'update' button that will update the encryption of passwords made with an older version of Ultrapass.
