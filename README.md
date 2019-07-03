@@ -11,3 +11,23 @@ NOTE 3; There isn't a folder so store passwords straight away, you have to open 
 NOTE 4; If you forget your encryption key, you lose access to your passwords. I will not be held responsible for this.
 
 NOTE 5; Updates are planned to be released WEEKLY. some of these may be neccesary for your password security.
+
+
+
+----------------------Features-------------------------
+
+*Store, Load and Encrypt Passwords!
+
+*Easy to use Interface!
+
+*Generate Secure Passwords INSTANTLY!
+
+
+
+----------------------Planned Updates-------------------
+
+*Fix bugs
+
+*Add button to clear passwords
+
+*Fix more bugs
