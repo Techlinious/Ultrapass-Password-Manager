@@ -33,3 +33,5 @@ NOTE 5; Updates are planned to be released WEEKLY. some of these may be neccesar
 *Fix encryption keys
 
 *Add an 'update' button that will update the encryption of passwords made with an older version of Ultrapass.
+
+*Add some kind of authentication that uses a similar kind of check to hashing and have the hash be stored in passwords.csv so the user can change the password.
