@@ -6,7 +6,7 @@ NOTE 1; The program hasn't been 'Published' yet, so windows may freak out when y
 
 NOTE 2; There are probably still many bugs. 
 
-NOTE 3 If you forget your master password, you won't be able to decrypt the file.
+NOTE 3; If you lose your master password, the file will open, but will still be scrambled.
 
 ----------------------Features-------------------------
 
@@ -15,6 +15,7 @@ NOTE 3 If you forget your master password, you won't be able to decrypt the file
 *Generate Secure Passwords.
 
 ----------------------Planned Updates-------------------
+*Change source code language from VB to C#, then I wont have to use windows to work on this.
 
 *Fix bugs
 
